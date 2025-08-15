@@ -54,7 +54,7 @@
 
 ### 画图工具
 * [Visio2016](https://msdn.itellyou.cn/)
-* Matplotlib - [Python可视化](07_Frameworks_and_Tools.md#python可视化)
+* Matplotlib - 参见 [Python可视化](07_Frameworks_and_Tools.md#python可视化)
 
 ### 写作教程
 * [刘知远_如何写一篇合格的NLP论文](https://zhuanlan.zhihu.com/p/58752815)
